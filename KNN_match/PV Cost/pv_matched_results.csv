@@ -1,0 +1,9 @@
+Matched_Solvent_Type,,Matched_Metal_Type,Metal,Matched_Descriptor,,pH,Temperature,Time,Cost,PV
+702,ethanol,15,Fe,O=C(O)C=Cc1ccc(C(=O)O)cc1,4-(2-carboxyethenyl)benzoic acid,6 ,106 ,45 ,1.01 ,0.36 
+31254,N-methylformamide,7,Mn,Nc1cc(C(=O)O)c(N)cc1C(=O)O,"2,5-diaminoterephthalic acid",5 ,99 ,57 ,1.02 ,0.38 
+6228,"N,N-dimethylformamide",8,Co,O=C(O)c1ccc(C(=O)O)cc1,terephthalic acid,7 ,65 ,24 ,1.07 ,0.70 
+8028,oxolane,15,Fe,O=C(O)c1ccc(-c2cc(C(=O)O)cc(C(=O)O)c2)cc1,"5-(4-carboxyphenyl)benzene-1,3-dicarboxylic acid",3 ,82 ,39 ,1.13 ,0.92 
+174,"ethane-1,2-diol",4,Gd,O=C(O)c1cc(C(=O)O)cc(C(=O)O)c1,Trimesic acid,1 ,78 ,24 ,6.44 ,1.19 
+962,oxidane,8,Co,O=C(O)C1C(C(=O)O)C(C(=O)O)C(C(=O)O)C(C(=O)O)C1C(=O)O,Hexahydromellitic acid,14 ,85 ,16 ,30.70 ,1.58 
+6228,"N,N-dimethylformamide",1,Cu,O=C(O)c1ccc(-c2cc(-c3ccc(C(=O)O)cc3)cc(-c3ccc(C(=O)O)cc3)c2)cc1,"1,3,5-Tris(4-carboxyphenyl)benzene",3 ,85 ,48 ,51.78 ,2.33 
+6228,"N,N-dimethylformamide",5,Dy,O=C(O)c1cc(C(=O)O)cc(C(=O)O)c1,Trimesic acid,1 ,80 ,24 ,97.12 ,2.35 
